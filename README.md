@@ -1,3 +1,1 @@
-# home-magic
-
-https://realpyc.github.io/home-magic/
+http://www.homemagiccompany.com/
